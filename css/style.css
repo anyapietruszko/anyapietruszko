@@ -1,0 +1,16 @@
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  color: darkbrown;
+  text-align: center;
+  font-family: arial;
+  font-size: 60px;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+}
