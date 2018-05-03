@@ -27,8 +27,11 @@ p {
 }
 
 table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
   overflow-y: scroll;
-  position: center;
+  position: static;
   width: 60%;
 }
 
