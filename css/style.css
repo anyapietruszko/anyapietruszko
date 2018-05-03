@@ -7,17 +7,18 @@ h1 {
   color: white;
   text-align: center;
   font-family: arial;
-  font-size: 100px;
+  font-size: 80px;
 }
 
 h2 {
-  color: gray;
+  color: white;
   text-align: center;
   font-size: 30px;
 }
 
 p {
   font-family: arial;
+  font-color: gray;
   font-size: 20px;
   text-align: center;
 }
