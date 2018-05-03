@@ -1,6 +1,8 @@
 body {
   background-color: darkgray;
+  font-color: black;
   text-align: center;
+  font-family: arial;
 }
 
 h1 {
