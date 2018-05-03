@@ -4,21 +4,22 @@ body {
 }
 
 h1 {
-  color: white;
+  font-color: white;
   text-align: center;
   font-family: arial;
   font-size: 80px;
 }
 
 h2 {
-  color: white;
+  font-color: white;
   text-align: center;
+  font-family: arial;
   font-size: 30px;
 }
 
 p {
-  font-family: arial;
   font-color: gray;
-  font-size: 20px;
   text-align: center;
+  font-family: arial;
+  font-size: 20px;
 }
