@@ -1,26 +1,26 @@
 body {
   background-color: darkgray;
-  font-color: black;
+  color: black;
   text-align: center;
   font-family: arial;
 }
 
 h1 {
-  font-color: white;
+  color: white;
   text-align: center;
   font-family: arial;
   font-size: 80px;
 }
 
 h2 {
-  font-color: white;
+  color: white;
   text-align: center;
   font-family: arial;
   font-size: 30px;
 }
 
 p {
-  font-color: gray;
+  color: gray;
   text-align: center;
   font-family: arial;
   font-size: 20px;
